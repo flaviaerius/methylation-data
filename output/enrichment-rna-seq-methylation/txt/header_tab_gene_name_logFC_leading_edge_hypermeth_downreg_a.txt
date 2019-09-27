@@ -1,0 +1,59 @@
+gene symbol	gene name	logFC
+Sox10	 SRY (sex determining region Y)-box 10 	-11.9097346374619
+Cdh2	 cadherin 2 	-11.2700160117982
+Prex2	 phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2 	-10.0953097767359
+Nrcam	 neuronal cell adhesion molecule 	-9.85759319085292
+Eya1	 EYA transcriptional coactivator and phosphatase 1 	-9.65401779729622
+B4galt6	 UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 6 	-9.6254908644952
+Tnik	 TRAF2 and NCK interacting kinase 	-9.57328008112796
+Prkcq	 protein kinase C, theta 	-9.3559198729922
+Rnf130	 ring finger protein 130 	-9.10014008748554
+Igsf11	 immunoglobulin superfamily, member 11 	-8.82616773385508
+Sntb1	 syntrophin, basic 1 	-8.74664963883923
+Pkia	 protein kinase inhibitor, alpha 	-8.67478181278738
+Dock3	 dedicator of cyto-kinesis 3 	-8.5038658640948
+Slc35f1	 solute carrier family 35, member F1 	-8.30113813858014
+Tbc1d9	 TBC1 domain family, member 9 	-8.15058629669262
+Arhgap42	 Rho GTPase activating protein 42 	-8.01456562370283
+Kif21a	 kinesin family member 21A 	-7.99575042752534
+Vegfc	 vascular endothelial growth factor C 	-7.86773557843331
+Scn8a	 sodium channel, voltage-gated, type VIII, alpha 	-7.66096411616836
+Nrg2	 neuregulin 2 	-7.26470507687816
+Tpd52l1	 tumor protein D52-like 1 	-7.18254196093813
+Prkd1	 protein kinase D1 	-7.10661685239403
+Fbxl7	 F-box and leucine-rich repeat protein 7 	-6.90803632451838
+Zfp618	 zinc finger protein 618 	-6.66400646990307
+Dgki	 diacylglycerol kinase, iota 	-6.6541824940379
+Sox6	 SRY (sex determining region Y)-box 6 	-6.57869666419332
+Grik2	 glutamate receptor, ionotropic, kainate 2 (beta 2) 	-6.5400438544528
+Casd1	 CAS1 domain containing 1 	-6.51240813183683
+Ppp1r14c	 protein phosphatase 1, regulatory (inhibitor) subunit 14c 	-6.46717715974773
+Slco3a1	 solute carrier organic anion transporter family, member 3a1 	-6.43402795523608
+Sdk1	 sidekick cell adhesion molecule 1 	-6.29414256612077
+Papln	 papilin, proteoglycan-like sulfated glycoprotein 	-6.28801490167219
+Foxd3	 forkhead box D3 	-6.26944894117146
+Marveld1	 MARVEL (membrane-associating) domain containing 1 	-6.11882514195592
+Fam19a5	 family with sequence similarity 19, member A5 	-6.11269744545744
+Coro2a	 coronin, actin binding protein 2A 	-5.95350244293639
+Thrb	 thyroid hormone receptor beta 	-5.68627683443995
+Stau2	 staufen double-stranded RNA binding protein 2 	-5.6738903008834
+Hid1	 HID1 domain containing 	-5.67270042260222
+Nova1	 neuro-oncological ventral antigen 1 	-5.66036061026219
+Cyfip2	 cytoplasmic FMR1 interacting protein 2 	-5.64285286147655
+Bmyc	 brain expressed myelocytomatosis oncogene 	-5.62548755684488
+Grik3	 glutamate receptor, ionotropic, kainate 3 	-5.62529692127421
+Foxp2	 forkhead box P2 	-5.6068794741351
+Rab32	 RAB32, member RAS oncogene family 	-5.48569998589962
+Shisa2	 shisa family member 2 	-5.48458877517505
+Enox1	 ecto-NOX disulfide-thiol exchanger 1 	-5.05033420214678
+Fign	 fidgetin 	-5.02779837286028
+Cacnb4	 calcium channel, voltage-dependent, beta 4 subunit 	-4.91159409610272
+Kcnn2	 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2 	-4.572767101666
+Igsf9b	 immunoglobulin superfamily, member 9B 	-4.21577401083814
+Six1	 sine oculis-related homeobox 1 	-3.96336628674158
+Magi2	 membrane associated guanylate kinase, WW and PDZ domain containing 2 	-3.94827056500054
+Tll1	 tolloid-like 	-3.85869253224633
+Plxnc1	 plexin C1 	-3.23888913250403
+Rgs16	 regulator of G-protein signaling 16 	-2.66715149796832
+Nbea	 neurobeachin 	-2.40676857921407
+Cln8	 ceroid-lipofuscinosis, neuronal 8 	-2.04796009762806

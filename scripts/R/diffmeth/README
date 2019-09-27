@@ -1,0 +1,7 @@
+The order of scripts to be run is:
+- myobj
+- comparative-anl
+- annotate-diff-meth
+- make-unique
+- aggreg_assocTSS
+- annotate_cpg3

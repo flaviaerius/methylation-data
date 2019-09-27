@@ -1,0 +1,91 @@
+gene symbol	gene name	logFC
+Lgals3	 lectin, galactose binding, soluble 3 	-11.5322460267525
+Peg3	 paternally expressed 3 	-10.6310157448783
+Pxdn	 peroxidasin 	-10.4451406608646
+Hist1h1b	 histone cluster 1, H1b 	-9.90709489000418
+Slc7a2	 solute carrier family 7 (cationic amino acid transporter, y+ system), member 2 	-9.55605595884891
+Pcdhgc3	 protocadherin gamma subfamily C, 3 	-9.43995815019491
+Fam107b	 family with sequence similarity 107, member B 	-9.34352267859064
+Pcsk6	 proprotein convertase subtilisin/kexin type 6 	-8.99063135736833
+Gas6	 growth arrest specific 6 	-8.65067408832567
+Mkx	 mohawk homeobox 	-8.50240493833975
+Foxd1	 forkhead box D1 	-8.24960828545454
+Tnfrsf21	 tumor necrosis factor receptor superfamily, member 21 	-8.12188628763836
+Myh10	 myosin, heavy polypeptide 10, non-muscle 	-8.1173794350568
+Atp10a	 ATPase, class V, type 10A 	-8.02629645540239
+Hist1h4j	 histone cluster 1, H4j 	-8.0089892615178
+Ptprf	 protein tyrosine phosphatase, receptor type, F 	-7.84109239069668
+Sox12	 SRY (sex determining region Y)-box 12 	-7.83761863089168
+Them6	 thioesterase superfamily member 6 	-7.67358905040283
+F2r	 coagulation factor II (thrombin) receptor 	-7.63905753252677
+Eepd1	 endonuclease/exonuclease/phosphatase family domain containing 1 	-7.6134972282337
+Nkd2	 naked cuticle 2 	-7.38968835984858
+1190002N15Rik	 RIKEN cDNA 1190002N15 gene 	-7.38261650374698
+Simc1	 SUMO-interacting motifs containing 1 	-7.28469027479435
+Mocos	 molybdenum cofactor sulfurase 	-7.20491830354985
+Xkr6	 X-linked Kx blood group related 6 	-7.13381082140636
+Map3k21	 mitogen-activated protein kinase kinase kinase 21 	-7.0772903657188
+Tagln2	 transgelin 2 	-7.07521402721288
+Fbn2	 fibrillin 2 	-6.98061901389281
+Prkd1	 protein kinase D1 	-6.97968362261359
+Jrk	 jerky 	-6.90571299765964
+Pcdhac2	 protocadherin alpha subfamily C, 2 	-6.85561958235469
+Tuba4a	 tubulin, alpha 4A 	-6.84650411509307
+Stc2	 stanniocalcin 2 	-6.73941640811697
+Lef1	 lymphoid enhancer binding factor 1 	-6.70857269525042
+Ror1	 receptor tyrosine kinase-like orphan receptor 1 	-6.4939795331615
+Tril	 TLR4 interactor with leucine-rich repeats 	-6.38011447514328
+Foxf1	 forkhead box F1 	-6.28818405852068
+Ccbe1	 collagen and calcium binding EGF domains 1 	-6.22832412527805
+Hrh1	 histamine receptor H1 	-6.15091116316819
+Foxd3	 forkhead box D3 	-6.14322312205921
+Fam19a5	 family with sequence similarity 19, member A5 	-6.11679499031098
+Pcdh18	 protocadherin 18 	-6.09031607708462
+Frmd5	 FERM domain containing 5 	-5.94317656809474
+P2ry1	 purinergic receptor P2Y, G-protein coupled 1 	-5.79274557381983
+Itga3	 integrin alpha 3 	-5.74346602995977
+Pde8a	 phosphodiesterase 8A 	-5.6806238898287
+Zbtb16	 zinc finger and BTB domain containing 16 	-5.66373981422954
+Thrb	 thyroid hormone receptor beta 	-5.56554682411966
+Cacna2d1	 calcium channel, voltage-dependent, alpha2/delta subunit 1 	-5.53790469371843
+Map9	 microtubule-associated protein 9 	-5.4762347155496
+Gas1	 growth arrest specific 1 	-5.43658321068133
+A930006K02Rik	 RIKEN cDNA A930006K02 gene 	-5.32630750548082
+D930048N14Rik	 RIKEN cDNA D930048N14 gene 	-5.29785506990399
+Galnt3	 polypeptide N-acetylgalactosaminyltransferase 3 	-5.28522433221068
+Mme	 membrane metallo endopeptidase 	-5.1731426151502
+Epb41l3	 erythrocyte membrane protein band 4.1 like 3 	-5.13164994863123
+Sfrp1	 secreted frizzled-related protein 1 	-4.72213647787223
+Igf2bp2	 insulin-like growth factor 2 mRNA binding protein 2 	-4.67004176344052
+Cacnb4	 calcium channel, voltage-dependent, beta 4 subunit 	-4.65605244084474
+Mthfd2l	 methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like 	-4.56002533305674
+Mkrn3	 makorin, ring finger protein, 3 	-4.5138803592744
+Arhgef26	 Rho guanine nucleotide exchange factor (GEF) 26 	-4.50673085644772
+Kcnn2	 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2 	-4.45534732463803
+Coro2a	 coronin, actin binding protein 2A 	-4.41542945763347
+Nectin1	 nectin cell adhesion molecule 1 	-4.40145438605394
+Id4	 inhibitor of DNA binding 4 	-4.14371565166776
+Khk	 ketohexokinase 	-4.09561177695248
+Tbc1d9	 TBC1 domain family, member 9 	-4.06552021479154
+Prex1	 phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1 	-3.94279759335163
+Thbs1	 thrombospondin 1 	-3.8915513349674
+Eya1	 EYA transcriptional coactivator and phosphatase 1 	-3.78196631048408
+Proser2	 proline and serine rich 2 	-3.77361718382343
+Kcnk5	 potassium channel, subfamily K, member 5 	-3.74772080040957
+Tspan2	 tetraspanin 2 	-3.69442135201232
+Slc25a22	 solute carrier family 25 (mitochondrial carrier, glutamate), member 22 	-3.42682017914023
+Rtn4rl1	 reticulon 4 receptor-like 1 	-3.40374014789049
+Mpp7	 membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7) 	-3.25040164924397
+Trps1	 transcriptional repressor GATA binding 1 	-3.2109698758195
+Epha2	 Eph receptor A2 	-2.93560563590433
+Itgb8	 integrin beta 8 	-2.874505092061
+Ssh3	 slingshot protein phosphatase 3 	-2.46168118627704
+Mtcl1	 microtubule crosslinking factor 1 	-2.42110127816539
+Trim25	 tripartite motif-containing 25 	-2.41634915431477
+Pitpnm1	 phosphatidylinositol transfer protein, membrane-associated 1 	-2.33804639402069
+Flnb	 filamin, beta 	-2.28074184465035
+Hist1h4i	 histone cluster 1, H4i 	-2.19412471477847
+Pgbd5	 piggyBac transposable element derived 5 	-2.10315370076091
+Zfp334	 zinc finger protein 334 	-2.04156063106477
+Fut11	 fucosyltransferase 11 	-2.00318785301768
+Slc25a13	 solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 13 	5.56773022749031
