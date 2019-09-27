@@ -12,3 +12,12 @@ The cell lines are:
 - 4C11+ - metastatic melanoma cells
 
 All cell lines were extracted in three biological replicates.
+
+Pairwise comparisons are indicated by the letters A to F, in which:
+
+- A: melan-a vs. 4C
+- B: 4C vs. 4C11-
+- C: 4C11- vs. 4C11+
+- D: melan-a vs. 4C11+
+- E: 4C vs. 4C11+
+- F: melan-a vs. 4C11-
