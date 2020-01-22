@@ -1,6 +1,0 @@
-gene symbol	gene name	logFC
-Pros1	 protein S (alpha) 	-8.81001733576819
-Ptprn	 protein tyrosine phosphatase, receptor type, N 	-7.19462346508057
-Dirc2	 disrupted in renal carcinoma 2 (human) 	-6.52558581452532
-Xylt1	 xylosyltransferase 1 	-6.01140062465866
-Cdyl2	 chromodomain protein, Y chromosome-like 2 	-2.12566646878984
