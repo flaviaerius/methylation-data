@@ -1,4 +1,5 @@
-Methylation data
+
+# Methylation data
 
 This repository contains all scripts used to analyze methylation data of ERRBS experiment for four melanoma cell lines.
 It also contains the resulting processed tables from the experiments.
